@@ -1,0 +1,19 @@
+{
+  "name": "multimap",
+  "version": "0.0.1",
+  "description": "Multimap",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "tsc -t es5 index.ts && node index.js"
+  },
+  "keywords": [
+    "multimap",
+    "map"
+  ],
+  "author": "Maksim Varvashevich",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.3"
+  }
+}
